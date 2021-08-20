@@ -77,7 +77,7 @@ const ContactForm = () => {
         value={phone}
         onChange={onChange}
       />
-      <h5> Contacat Type </h5>
+      <h5> Contact Type </h5>
       <input
         type="radio"
         name="type"
