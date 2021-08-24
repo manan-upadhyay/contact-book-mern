@@ -1,4 +1,4 @@
-# contact-book-mern
+# Contact Book
 
 A Contact Manager Application built using MERN. 
 
